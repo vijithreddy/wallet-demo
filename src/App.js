@@ -94,7 +94,7 @@ function App() {
       network: Network.ETH_MAINNET
     }
     const erc20NameMap = {
-      "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2": "Wrapped ETH",
+      "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "Wrapped ETH",
       "0xdac17f958d2ee523a2206206994597c13d831ec7": "Tether USD",
       "0xb8c77482e45f1f44de1745f52c74426c631bdd52": "Binance Coin",
       "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "USD Coin",
